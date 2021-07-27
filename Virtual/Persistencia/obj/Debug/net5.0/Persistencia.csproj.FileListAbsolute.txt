@@ -1,0 +1,38 @@
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\ef.dll.config
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\ef.dll.config
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

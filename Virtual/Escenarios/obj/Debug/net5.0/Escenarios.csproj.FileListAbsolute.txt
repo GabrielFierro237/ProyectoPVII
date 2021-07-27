@@ -1,0 +1,30 @@
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.pdb

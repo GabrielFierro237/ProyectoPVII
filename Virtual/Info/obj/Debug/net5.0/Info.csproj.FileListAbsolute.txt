@@ -1,0 +1,60 @@
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\bin\Debug\net5.0\Info.deps.json
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\bin\Debug\net5.0\Info.dll
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\bin\Debug\net5.0\ref\Info.dll
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\bin\Debug\net5.0\Info.pdb
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\bin\Debug\net5.0\Modelo.dll
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.csproj.CopyComplete
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.dll
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\ref\Info.dll
+C:\Users\Personal\Desktop\Programacion visual 2\visual 19\Virtual\Info\obj\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\bin\Debug\net5.0\Info.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\bin\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\bin\Debug\net5.0\ref\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\bin\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\ref\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Gabriel\Virtual\Info\obj\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\ref\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\bin\Debug\net5.0\Info.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\bin\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\bin\Debug\net5.0\ref\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\bin\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Info\obj\Debug\net5.0\Info.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\bin\Debug\net5.0\Info.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\bin\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\bin\Debug\net5.0\ref\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\bin\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\ref\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Info\obj\Debug\net5.0\Info.pdb

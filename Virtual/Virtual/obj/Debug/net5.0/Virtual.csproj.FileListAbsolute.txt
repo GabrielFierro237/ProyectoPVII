@@ -1,0 +1,158 @@
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\ef.dll.config
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.exe
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll.config
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\ref\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Virtual.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Npgsql.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\ref\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Virtual\Virtual\obj\Debug\net5.0\Virtual.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\ef.dll.config
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.exe
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll.config
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.deps.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\ref\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Virtual.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Npgsql.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Escenarios.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Info.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Modelo.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\procesos.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Info.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Modelo.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\bin\Debug\net5.0\procesos.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\ref\Virtual.dll
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.pdb
+C:\Users\gabri\OneDrive\Documents\Escritorio\Proyecto Programacion Visual II\Virtual\Virtual\obj\Debug\net5.0\Virtual.genruntimeconfig.cache
